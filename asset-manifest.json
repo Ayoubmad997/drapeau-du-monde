@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/drapeau-du-monde/static/css/main.5b70c221.css",
+    "main.js": "/drapeau-du-monde/static/js/main.a1a1e9dd.js",
+    "static/media/main.jpg": "/drapeau-du-monde/static/media/main.516fbcd135926107480c.jpg",
+    "static/media/JosefinSans-Medium.ttf": "/drapeau-du-monde/static/media/JosefinSans-Medium.45a5738c27c1bbbecc0c.ttf",
+    "index.html": "/drapeau-du-monde/index.html",
+    "main.5b70c221.css.map": "/drapeau-du-monde/static/css/main.5b70c221.css.map",
+    "main.a1a1e9dd.js.map": "/drapeau-du-monde/static/js/main.a1a1e9dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b70c221.css",
+    "static/js/main.a1a1e9dd.js"
+  ]
+}
